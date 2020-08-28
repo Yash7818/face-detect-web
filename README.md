@@ -3,3 +3,4 @@
 - Face-detect API is used in making this web app.
 - This API have algorithm which recognize the location of different points in the face
 - The location of point and movements of the same helps om recognising the expression of the face.
+![alt text](https://github.com/Yash7818/face-detect-web/blob/master/image.jpg?raw=true)
